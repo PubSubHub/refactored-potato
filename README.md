@@ -1,3 +1,3 @@
 # refactored-potato
 
-improvements are right here
+Potato salad is good!
